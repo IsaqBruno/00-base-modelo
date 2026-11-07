@@ -1,0 +1,19 @@
+# 🚀 Template de Projeto para Desenvolvimento Web
+
+Este repositório foi estruturado para servir como um **modelo base (boilerplate)**, projetado para otimizar e agilizar o processo de planejamento e desenvolvimento de novos sites. 
+
+## 🎯 Objetivo
+
+O propósito deste modelo é fornecer uma base padronizada e organizada, permitindo que você inicie novos projetos de frontend rapidamente sem precisar configurar a estrutura de pastas e arquivos do zero todas as vezes.
+
+## 📂 Estrutura do Projeto
+
+A organização dos arquivos foi pensada para manter o código limpo, modular e de fácil manutenção:
+
+```text
+├── index.html        # Página principal do projeto
+├── assets/           # Recursos estáticos
+│   ├── css/          # Folhas de estilo (Estilos globais e componentes)
+│   ├── js/           # Scripts JavaScript
+│   └── images/       # Imagens e ícones utilizados no site
+└── README.md         # Documentação do projeto
